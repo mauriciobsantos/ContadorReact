@@ -1,0 +1,17 @@
+.zerar,
+.adicionar,
+.diminuir {
+    border: 1px solid black;
+}
+
+.zera {
+    background-color: #ccc;
+}
+
+.adicionar {
+    background-color: chartreuse;
+}
+
+.diminuir {
+    background-color: rgb(236, 25, 18);
+}
